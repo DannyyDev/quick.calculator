@@ -124,7 +124,7 @@ console.log(redondeo);
 
 ## Changelog
 
-### V0.0.8
+### V0.0.9
 
 * \+\- Arreglado: Errores de la suma.
 

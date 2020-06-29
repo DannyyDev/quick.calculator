@@ -1,0 +1,23 @@
+{
+  "name": "quick.calculator",
+  "version": "0.0.9",
+  "description": "Calculadora de JavaScript simple para simplificar tus tareas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DannyyDev/quick.calculator.git"
+  },
+  "keywords": [
+    "calculator",
+    "math"
+  ],
+  "author": "Daniel Benitez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DannyyDev/quick.calculator/issues"
+  },
+  "homepage": "https://github.com/DannyyDev/quick.calculator#readme"
+}
